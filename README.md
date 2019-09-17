@@ -12,7 +12,7 @@ Most of our events will be in the format of presentations and proposals can be s
 Talk proposals should be created as github issues in [this](https://github.com/Detroit-Tech-Watch/Meetup/issues) repo.
 
 Proposals should:
-* include a **title** and a **short description** of the talk
+* include a **title** and a **short description** of the talk, as well as the **amount of time you expect the talk/workshop to run**
 * be assigned to the proposed speaker
 * tagged with the `proposal` label
 * tagged with **only one** of the following types: `talk` or `workshop` label
