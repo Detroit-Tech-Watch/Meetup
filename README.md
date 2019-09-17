@@ -15,7 +15,7 @@ Proposals should:
 * include a **title** and a **short description** of the talk
 * be assigned to the proposed speaker
 * tagged with the `proposal` label
-* tagged with **only one** of the following types: `project`, `talk` or `workshop` label
+* tagged with **only one** of the following types: `talk` or `workshop` label
 
 For talks and workhops:
 * mention the expected length
